@@ -70,6 +70,16 @@ The script saves the PDF and provides a download link for the user.
 
 *Output Screenshots*
 
+![Image](https://github.com/user-attachments/assets/d6e2d832-f305-4d65-bfae-40670d436c18)
+
+![Image](https://github.com/user-attachments/assets/78e9c51b-8ad5-4b84-83b7-96450556b798)
+
+![Image](https://github.com/user-attachments/assets/05462712-0d12-48f8-860d-be5b4ce3b91a)
+
+![Image](https://github.com/user-attachments/assets/3953b81d-0cc8-42a2-a7df-edd9cc6faf80)
+
+![Image](https://github.com/user-attachments/assets/7ebe3a50-8b9f-411d-a49e-e1591c70ffa3)
+
 *Conclusion*
 
 This script automates the process of reading data, performing analysis, and creating a well-structured PDF report. It demonstrates the practical application of Python’s libraries in real-world scenarios, streamlining workflows and improving productivity.
